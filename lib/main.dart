@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:photo_ticker/screen/home_screen.dart';
+import 'package:flutter_photo/screen/home_screen.dart';
+
 
 void main() {
   runApp(
