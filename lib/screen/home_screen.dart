@@ -5,10 +5,9 @@ import 'package:camera/camera.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-
+import 'package:photo_ticker/component/main_app_bar.dart';
 
 import '../component/footer.dart';
-import '../component/main_app_bar.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key,}) :super(key: key);
